@@ -1,0 +1,38 @@
+{
+  "1": {
+    "description": "Leadership, Independence, New Beginnings. Number 1 is associated with pioneering, ambition, and drive. Individuals with this number are natural leaders, often taking charge of situations and creating new paths. They are independent, self-reliant, and have a strong sense of individuality.",
+    "famous_personalities": ["Steve Jobs", "Martin Luther King Jr.", "Tom Hanks"]
+  },
+  "2": {
+    "description": "Diplomacy, Partnership, Sensitivity. Number 2 represents balance, cooperation, and harmony. Those with this number are often peacemakers who excel in mediation and bringing people together. They are sensitive to the needs of others and value relationships and partnerships highly.",
+    "famous_personalities": ["Mahatma Gandhi", "Mother Teresa", "Jennifer Aniston"]
+  },
+  "3": {
+    "description": "Creativity, Self-Expression, Joy. Number 3 is all about artistic expression, joy, and communication. People with this number are often found in creative fields, using their talents to bring happiness and beauty to the world. They are sociable, optimistic, and have a gift for inspiring others.",
+    "famous_personalities": ["Adele", "Walt Disney", "Jim Carrey"]
+  },
+  "4": {
+    "description": "Stability, Practicality, Discipline. Number 4 is the number of hard work, structure, and responsibility. Individuals with this number are grounded, reliable, and methodical. They build strong foundations and are often seen as the backbone of their families or organizations.",
+    "famous_personalities": ["Oprah Winfrey", "Bill Gates", "Franklin D. Roosevelt"]
+  },
+  "5": {
+    "description": "Adventure, Freedom, Change. Number 5 is associated with dynamism, adaptability, and exploration. Those with this number crave freedom and are always on the move, seeking new experiences and opportunities. They are versatile, curious, and often thrive in environments that require quick thinking and adaptability.",
+    "famous_personalities": ["Angelina Jolie", "Abraham Lincoln", "David Bowie"]
+  },
+  "6": {
+    "description": "Responsibility, Care, Balance. Number 6 is the number of nurturing, care, and service to others. People with this number are often drawn to roles where they can support and care for others. They are responsible, compassionate, and have a strong sense of duty towards their loved ones.",
+    "famous_personalities": ["Warren Buffett", "John Lennon", "Eleanor Roosevelt"]
+  },
+  "7": {
+    "description": "Introspection, Analysis, Spirituality. Number 7 is associated with deep thinking, analysis, and spirituality. Individuals with this number are often introspective, seeking knowledge and understanding of the deeper aspects of life. They are intellectual, analytical, and have a strong intuition.",
+    "famous_personalities": ["Albert Einstein", "Stephen Hawking", "Marilyn Monroe"]
+  },
+  "8": {
+    "description": "Power, Material Success, Ambition. Number 8 represents authority, power, and financial success. Those with this number are ambitious, driven, and often find themselves in positions of leadership. They have a strong focus on achieving their goals and accumulating material success.",
+    "famous_personalities": ["Pablo Picasso", "Donald Trump", "George Washington"]
+  },
+  "9": {
+    "description": "Compassion, Humanitarianism, Completion. Number 9 is the number of universal love, humanitarianism, and selflessness. People with this number are often involved in charitable work and have a strong desire to help others. They are compassionate, generous, and are driven by a sense of moral duty.",
+    "famous_personalities": ["Mother Teresa", "Mahatma Gandhi", "Elvis Presley"]
+  }
+}
