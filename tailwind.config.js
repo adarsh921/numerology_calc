@@ -25,7 +25,8 @@ module.exports = {
       },
       screens:{
         'smaller' : {'max':'1095px'},
-        'moreSmaller':{'max':'856px'}
+        'moreSmaller':{'max':'856px'},
+        'lessthan464':{'max':'464px'},
       },
     },
   },
